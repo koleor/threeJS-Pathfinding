@@ -1,6 +1,6 @@
 import * as THREE from '/node_modules/three/build/three.module.js';
 import {OrbitControls} from '/node_modules/three/examples/jsm/controls/OrbitControls.js';
-import * as PF from '/node_modules/pathfinding';
+import * as PF from 'pathfinding';
 
 // const THREE = require('three');
 // const PF = require('pathfinding');
