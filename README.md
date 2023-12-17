@@ -1,5 +1,7 @@
 <h1> Pathfinding Three JS </h1>
+
 [Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
 <h2> Описание проекта</h2>
 
 Эта программа является трёхмерным конструктором, который также может находить маршрут между двумя точками.
